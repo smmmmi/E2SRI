@@ -9,7 +9,8 @@ Our extended and upgraded version produces highly consistent videos, and include
 
 If you use any of this code, please cite both following publications:
 
-```@article{mostafaviisfahani2021e2sri,
+```bibtex
+@article{mostafaviisfahani2021e2sri,
   title={E2SRI: Learning to Super-Resolve Intensity Images from Events},
   author={Mostafaviisfahani, Sayed Mohammad and Nam, Yeongwoo and Choi, Jonghyun and Yoon, Kuk-Jin},
   journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
